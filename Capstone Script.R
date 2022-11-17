@@ -4,7 +4,7 @@ library(lubridate)
 library(ggplot2) 
 library(dplyr)
 
-#set working directory to correct fiel location
+#set working directory to correct file location
 setwd("C:/Users/ekabu/OneDrive/Documents/Data") 
 
 #importing data to r
